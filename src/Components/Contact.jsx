@@ -109,14 +109,14 @@ const Contact = () => {
 									}}
 								/>
 								<p>
-									<div>
+									{/* <div>
 										<a
 											style={{ textDecoration: "none", color: "#000000" }}
 											href="https://shriyash-jadhav.netlify.app/"
 										>
 											Shriyash Jadhav
 										</a>
-									</div>
+									</div> */}
 
 									<a
 										style={{ textDecoration: "none", color: "#000000" }}

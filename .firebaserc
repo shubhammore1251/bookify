@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "react-task-bddd7"
+    "default": "react-task-bddd7",
+    "development": "bookify121",
+    "production": "bookify121"
   }
 }
