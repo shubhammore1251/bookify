@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "sem": 1,
+      "bname": "Engineering Mathematics - 1",
+      "image": "https://i.ibb.co/4jDMS3G/em1.png",
+      "price": "500 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,published by Jamnadas for First year semester One Engineering branch.Majorly Famous among Engineering Students."
+    },
+    {
+      "id": 2,
+      "sem": 1,
+      "bname": "Engineering Physics - 1",
+      "image": "https://i.ibb.co/xgLjMQn/ep1.png",
+      "price": "350 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by M.N. Avadhanlu for First year semester One  Engineering branch."
+    },
+    {
+      "id": 3,
+      "sem": 1,
+      "bname": "Engineering Chemistry - 1",
+      "image": "https://i.ibb.co/c3hKp1f/ec1.png",
+      "price": "350 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by Dara & Dara for First year semester One  Engineering branch"
+    },
+    {
+      "id": 4,
+      "sem": 1,
+      "bname": "Basic Electrical Engineering",
+      "image": "https://i.ibb.co/VDHFdsH/bee.png",
+      "price": "600 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University and recommended by 70% of Students for engineering degree,written by B.R. Patil for First year semester One Engineering branch"
+    },
+    {
+      "id": 5,
+      "sem": 1,
+      "bname": "Engineering Mechanics",
+      "image": "https://i.ibb.co/jv8wNr3/em.png",
+      "price": "547 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by M.D. Dayal highest selling Book for First year second semester  Engineering branch."
+    },
+    {
+      "id": 7,
+      "sem": 2,
+      "bname": "Engineering Mathematics - 2",
+      "image": "https://i.ibb.co/rvSvPBQ/em2.png",
+      "price": "560 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,published by Jamnadas for First year Second Semester Engineering branch.Majorly Famous among Engineering Students."
+    },
+    {
+      "id": 8,
+      "sem": 2,
+      "bname": "Engineering Physics - 2",
+      "image": "https://i.ibb.co/rtcxc8w/ep2.png",
+      "price": "350 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by M.N. Avadhanlu for First year second semester  Engineering branch."
+    },
+    {
+      "id": 9,
+      "sem": 2,
+      "bname": "Engineering Chemistry - 2",
+      "image": "https://i.ibb.co/2v019Hm/ec2.png",
+      "price": "400 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by Dara & Dara for First year second semester  Engineering branch"
+    },
+    {
+      "id": 10,
+      "sem": 2,
+      "bname": "C Programming",
+      "image": "https://i.ibb.co/12sr7bG/cp.png",
+      "price": "600 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by HERBERT SCHILDT for First year second semester  Engineering branch"
+    },
+    {
+      "id": 11,
+      "sem": 2,
+      "bname": "Engineering Graphics",
+      "image": "https://i.ibb.co/9rcSjJF/eg.png",
+      "price": "650 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by N.H. Dubey for First year second semester  Engineering branch"
+    },
+    {
+      "id": 13,
+      "sem": 3,
+      "bname": "Engineering Mathematics - 3",
+      "image": "https://i.ibb.co/dWcwXHr/em3.png",
+      "price": "450 Rs",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,published by Jamnadas for Second year semester Three Engineering branch."
+    },
+    {
+      "id": 14,
+      "sem": 3,
+      "bname": "Data Structure and Algorithm",
+      "image": "https://i.ibb.co/1qHVbVY/dsa.png",
+      "price": "350 RS",
+      "description": "This book is Recomended by MU, Authored by Robert Lofore for Second year semester Three Engineering branch."
+    },
+    {
+      "id": 15,
+      "sem": 3,
+      "bname": "Database and Management System",
+      "image": "https://i.ibb.co/87YfDNS/dbms.png",
+      "price": "550 RS",
+      "description": "Authored by C.J. Dake is one of the grossing books and also recommended by MU"
+    },
+    {
+      "id": 16,
+      "sem": 3,
+      "bname": "Paradigm and Computer Programming Fundamental",
+      "image": "https://i.ibb.co/f2Kfqd9/pcpf.png",
+      "price": "560 RS",
+      "description": "Authored by N.M. George one of the quite choice of MU students and also teachers."
+    },
+    {
+      "id": 17,
+      "sem": 3,
+      "bname": "Principle of Communication",
+      "image": "https://i.ibb.co/SVbC3RC/pcom.png",
+      "price": "400 RS",
+      "description": "This book is Recomended by MU, Authored by R.J. Thomas for Second year semester Three Engineering branch."
+    },
+    {
+      "id": 19,
+      "sem": 4,
+      "bname": "Engineering Mathematics - 4",
+      "image": "https://i.ibb.co/12xg2ZK/em4.png",
+      "price": "400 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,published by Jamnadas for Second year semester Four Engineering branch."
+    },
+    {
+      "id": 20,
+      "sem": 4,
+      "bname": "Operating System",
+      "image": "https://i.ibb.co/G08GFDH/os.png",
+      "price": "460 RS",
+      "description": "This book is Recomended by MU, Authored by P.H. Jhon for Second year semester Four Engineering branch."
+    },
+    {
+      "id": 21,
+      "sem": 4,
+      "bname": "Microprocessor",
+      "image": "https://i.ibb.co/qrTTnj9/mp.png",
+      "price": "500 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by R.D. Sharma for Second year semester Four Engineering branch."
+    },
+    {
+      "id": 22,
+      "sem": 4,
+      "bname": "Networking",
+      "image": "https://i.ibb.co/ZGB0tCn/nw.png",
+      "price": "520 RS",
+      "description": "This book is base on as per the latest syllabus of Mumbai University for engineering degree,written by R.D. Joshi for Second year semester Four Engineering branch."
+    },
+    {
+      "id": 23,
+      "sem": 4,
+      "bname": "Automata Theory",
+      "image": "https://i.ibb.co/W3LGXMv/at.png",
+      "price": "380 RS",
+      "description": "One of the Best book by P.S. Agarwal for Automata Theory for Engineering Students."
+    },
+    {
+      "id": 24,
+      "sem": 1,
+      "bname": "Question Paper Sem-1",
+      "image": "https://i.ibb.co/ccQZ79T/qp-sem1.png",
+      "price": "Free",
+      "file": "https://drive.google.com/drive/folders/1p3sonnw1O33BWLAO7Uevm9Dj8ewZPHBk",
+      "description": "Important 4 papers from last 10 Years"
+    },
+    {
+      "id": 25,
+      "sem": 2,
+      "bname": "Question Paper Sem-2",
+      "image": "https://i.ibb.co/GTjJQxk/qp-sem2.png",
+      "price": "Free",
+      "file": "https://drive.google.com/drive/folders/1I6kcLwWrqfI9ppu39xtvLaJ2db_4eqzA",
+      "description": "Important 4 papers from last 10 Years"
+    },
+    {
+      "id": 26,
+      "sem": 3,
+      "bname": "Question Paper Sem-3",
+      "image": "https://i.ibb.co/Y3JJ4Z2/qp-sem3.png",
+      "price": "Free",
+      "file": "https://drive.google.com/drive/folders/15iNEsjy3OSG-bp9yKHrlSs4PTGqDMztJ",
+      "description": "Important 6 papers from last 10 Years"
+    },
+    {
+      "id": 27,
+      "sem": 4,
+      "bname": "Question Paper Sem-4 ",
+      "image": "https://i.ibb.co/kKSJX1Z/qp-sem4.png",
+      "price": "Free",
+      "file": "https://drive.google.com/drive/folders/1rf3Tn1XynShK8yFz2y1WirjySdCVC8Lm",
+      "description": "Important 5 papers from last 10 years"
+    }
+  ],
+  "papers": []
+}
