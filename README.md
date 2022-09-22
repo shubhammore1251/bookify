@@ -18,7 +18,6 @@ Also this Project is Updation of our Bookify which was Java Based into website u
 - **ReactJs**
 - **Bootstrap**
 - **E-mailJS**
-- **Python CRUD operations**
 
 **NPM Package**
 - **json-server**
